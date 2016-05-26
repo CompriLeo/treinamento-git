@@ -1,1 +1,1 @@
-Testando o pull com conflito LOCAL
+Testando o pull com conflinto
